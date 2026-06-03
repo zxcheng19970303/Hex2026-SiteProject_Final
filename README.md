@@ -2,6 +2,7 @@
 
 簡單做了個嘗試，專案架構如下：
 
+```txt
 Hex2026-SiteProject_Final/
 ├── index.html
 ├── service.html
@@ -16,5 +17,6 @@ Hex2026-SiteProject_Final/
     ├── desktop/
     ├── mobile/
     └── icons/
+```
 
 但因為課程還沒看完，可能還有些缺失的地方，先交上來再說XD。
